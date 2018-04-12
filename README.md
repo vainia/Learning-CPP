@@ -1,1 +1,1 @@
-# Small introduction programs written on language C (2016)
+# Small introduction programs written on language C++ (2016)
